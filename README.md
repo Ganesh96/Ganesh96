@@ -1,28 +1,206 @@
-# 💫 About Me:
-🔭 I'm currently working on: Building scalable cloud-based applications using C#, Python, and JavaScript, and exploring the capabilities of Redis, Azure, and AWS.<br>👯 I'm looking to collaborate on: Exciting projects that involve designing and developing innovative software solutions, particularly those that leverage cloud technologies and distributed systems.<br>🤝 I'm looking for help with: Optimizing application performance, mastering DevOps practices, and staying up-to-date with the latest advancements in cloud computing and cybersecurity.<br>🌱 I'm currently learning: Advanced techniques in cloud architecture, machine learning, and data analytics to enhance my skill set and stay current in the industry.<br>💬 Ask me about: Anything related to software development, cloud computing (Azure and AWS), C#, Python, JavaScript, Redis, or distributed systems. I'm here to help!<br>⚡ Fun fact: I enjoy experimenting with new programming languages and technologies in my free time, and I'm always looking for opportunities to apply my skills to real-world problems.
+<div align="center">
 
+# Ganesan Santhanam
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesan-santhanam) 
+### Software Engineer · Full-Stack Systems · Backend · Cloud · Data
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ganesh96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ganesh96&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build product-facing software backed by reliable APIs, well-designed data models, asynchronous workflows, and cloud infrastructure.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[Portfolio](https://ganesh96.github.io/ganesan-santhanam.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/ganesansantha77/) ·
+[LeetCode](https://leetcode.com/ganesh96/)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ganesh96&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ganesh96&icon=8&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/GanesanSanthanam) 
+## ⚙️ What I Work On
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Product & Backend
+
+* Full-stack product workflows
+* REST APIs and service boundaries
+* Background processing
+* Caching and performance
+* Authentication and integrations
+* React / TypeScript interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### Data & Systems
+
+* Relational and NoSQL databases
+* Schema and query design
+* Event-driven workflows
+* Message queues
+* Data pipelines
+* Reliability and observability
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Cloud & Delivery
+
+* AWS
+* Azure
+* Containers
+* CI/CD
+* Production monitoring
+* Deployment automation
+
+</td>
+<td width="50%" valign="top">
+
+### Applied AI
+
+* LLM APIs
+* Retrieval
+* Embeddings
+* Vector search
+* Tool use
+* Agent workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 How I Engineer
+
+I start with the **product need and system constraints**, then work toward the implementation.
+
+**At the system level**
+
+`boundaries` · `data ownership` · `APIs` · `queues` · `storage` · `consistency` · `failure isolation`
+
+**Closer to the code**
+
+`contracts` · `state transitions` · `domain models` · `validation` · `error handling` · `testability`
+
+**In production**
+
+`latency` · `throughput` · `retries` · `idempotency` · `observability` · `recovery`
+
+I prefer explicit tradeoffs over unnecessary complexity.
+
+A better index can be more valuable than another service.
+A queue is useful when work should leave the request path.
+A cache is useful when the access pattern justifies it.
+Distribution is a cost before it becomes a solution.
+
+The goal is not sophisticated architecture.
+
+The goal is **software that works, survives change, and remains understandable**.
+
+---
+
+## 🛠️ Toolbox
+
+### Languages & Application
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+
+### Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square\&logo=amazonsqs\&logoColor=white)
+
+### Cloud & Delivery
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+---
+
+## 🔍 Current Focus
+
+Building stronger engineering depth across:
+
+**System Design**
+requirements → capacity → APIs → storage → messaging → failure modes
+
+**Backend & Databases**
+transactions → indexes → caching → async workloads → reliability
+
+**Full-Stack Delivery**
+user workflows → frontend → APIs → persistence → deployment
+
+**Applied LLM Systems**
+retrieval → tools → agents → evaluation → reliable integration
+
+**Problem Solving**
+invariants → data structures → algorithms → clear technical communication
+
+---
+
+## 🧠 Engineering Principles
+
+```text
+Solve the constraint, not the trend.
+
+Keep state ownership clear.
+
+Design failure paths early.
+
+Measure before optimizing.
+
+Keep complexity proportional to the problem.
+
+Prefer reversible decisions when uncertainty is high.
+
+Make production behavior observable.
+
+Build for the next likely change, not every possible future.
+```
+
+---
+
+## ⚫ Go
+
+I play **Go**.
+
+I like the same qualities in the game that I value in engineering:
+
+**position before activity**
+**patience before overextension**
+**global structure before local optimization**
+**simple moves with compounding impact**
+
+A locally clever decision can weaken the whole board.
+
+Software systems are often the same.
+
+---
+
+<div align="center">
+
+### Build deliberately. Measure what matters. Keep improving.
+
+[Portfolio](https://ganesh96.github.io/ganesan-santhanam.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/ganesansantha77/) ·
+[Repositories](https://github.com/Ganesh96?tab=repositories)
+
+</div>
